@@ -12,14 +12,6 @@ Dynamic Menu: Displays food items with images, descriptions, and pricing.
 Hover Effects: Smooth transitions on hover for a modern look.
 Add to Cart & Order Buttons: Interactive buttons with hover effects for user actions.
 
-## 📂 Project Structure
-├── index.html         # Main HTML file
-├── style.css          # CSS for styling
-├── README.md          # Project documentation
-└── assets/            # Folder for images and other assets
-    ├── logo.png       # Project logo
-    ├── banner.jpg     # Banner image
-    └── food/          # Food item images
 ## 🎨 Tech Stack
 HTML5: For the structure and layout.
 CSS3: For styling, hover effects, and responsiveness.
