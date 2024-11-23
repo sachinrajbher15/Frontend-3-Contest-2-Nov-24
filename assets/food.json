@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "price": 5.99,
+    "imgSrc": "https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "price": 8.99,
+    "imgSrc": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tacos",
+    "price": 3.99,
+    "imgSrc": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sushi",
+    "price": 11.99,
+    "imgSrc": "https://cdn.pixabay.com/photo/2016/03/05/19/02/sushi-1238248_1280.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pasta",
+    "price": 9.99,
+    "imgSrc": "https://i.ytimg.com/vi/iQ38VKAjQgo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYeSca3xOzPVWec6G-I6XqaZ8z4Q"
+  },
+  {
+    "id": 6,
+    "name": "Fried Chicken",
+    "price": 7.99,
+    "imgSrc": "https://airfryermom.com/wp-content/uploads/2022/05/Cook-Fried-Chicken-in-Air-Fryer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Grilled Cheese Sandwich",
+    "price": 4.99,
+    "imgSrc": "https://www.lifemadedelicious.ca/-/media/gmi/core-sites/lmd/legacy/images/lmd/recipes/grilled-double-cheese-and-bacon-sandwiches_16x9.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Steak",
+    "price": 15.99,
+    "imgSrc": "https://www.allrecipes.com/thmb/OJ28fIFte6Pyg93ML8IM-APbu1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14554-sirloin-steak-with-garlic-butter-hero-4x3-d12fa79836754fcf850388e4677bbf55.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Caesar Salad",
+    "price": 6.99,
+    "imgSrc": "https://www.grocery.coop/sites/default/files/NCG_Dennis_Becker_Classic_Caesar_Salad_715_x_477.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fish and Chips",
+    "price": 8.49,
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/1200px-Fish_and_chips_blackpool.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ramen",
+    "price": 9.49,
+    "imgSrc": "https://oryoki.de/media/image/news/55/md/miso-shiitake_preview.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Burrito",
+    "price": 7.49,
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/640px-Burrito.JPG"
+  },
+  {
+    "id": 13,
+    "name": "Pho",
+    "price": 8.99,
+    "imgSrc": "https://nogluten-noproblem.com/wp-content/uploads/2019/10/20191022-VietnamesePho-P1044624.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pad Thai",
+    "price": 9.99,
+    "imgSrc": "https://www.elmundoeats.com/wp-content/uploads/2024/06/FP-Authentic-pad-Thai-in-a-plate-500x375.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Gyro",
+    "price": 6.49,
+    "imgSrc": "https://assets.epicurious.com/photos/59513832a5db170587cf62b9/16:9/w_1280,c_limit/shutterstock_220309672.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Ice Cream",
+    "price": 3.99,
+    "imgSrc": "https://cdn.prod.website-files.com/5e9ebc3fff165933f19fbdbe/61b31c9d289e22335b6753b2_Ice%20Cream%202.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Smoothie",
+    "price": 4.99,
+    "imgSrc": "https://alittleinsanity.com/wp-content/uploads/2012/03/Natural-Breakfast-Smoothie-Recipe-Gluten-Free-Vegan-1024x683.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Apple Pie",
+    "price": 4.49,
+    "imgSrc": "https://i.ytimg.com/vi/RoHWiA6pogg/maxresdefault.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Chocolate Cake",
+    "price": 5.49,
+    "imgSrc": "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2022/11/Air_Fryer_Chocolate_Cake-500x375.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Pancakes",
+    "price": 4.99,
+    "imgSrc": "https://www.inspiredtaste.net/wp-content/uploads/2024/03/Easy-Fluffy-Pancakes-Recipe-Video.jpg"
+  }
+]

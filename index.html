@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Ordering System</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <img src="images/logo.png" alt="Logo" class="sidebar-logo">
+        </div>
+        <nav class="nav">
+            <h3>Quick Links</h3>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Your Orders</a></li>
+                <li><a href="#">Wallet</a></li>
+                <li><a href="#">Profile</a></li>
+                <li><a href="#">Logout</a></li>
+            </ul>
+            <h3>More About Us</h3>
+            <ul>
+                <li><a href="#">Our Blog</a></li>
+                <li><a href="#">Upcoming Dishes</a></li>
+                <li><a href="#">Our Story</a></li>
+                <li><a href="#">Social Media Links</a></li>
+            </ul>
+        </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Header -->
+        <header class="header">
+            <div class="search-container">
+                <i class="search-icon fas fa-search"></i>
+                <input type="text" placeholder="Search Food Item" class="search-bar" />
+              </div>
+              
+            <div class="header-buttons">
+                <button class="btn">Sign Up</button>
+                <button class="btn">Login</button>
+            </div>
+            <img src="images/logo.png" alt="Logo" class="header-logo">
+        </header>
+
+        <!-- Banner -->
+        <img src="images/banner.jpg" alt="Banner" class="banner-img">
+        <section class="banner">
+            <div class="banner-content">
+                <h2>Weekend Special Delicious Food Menu</h2>
+                <p>Order Now - 24/7 Home Delivery</p>
+            </div>
+        </section>
+
+        <!-- Menu Section -->
+        <section class="menu">
+            <h2>Menu</h2>
+            <div id="menu-items" class="menu-items"></div>
+        </section>
+    </main>
+
+    <script src="assets/script.js"></script>
+    <script>
+        // Call getMenu when the page loads
+        window.onload = function() {
+            getMenu();
+        };
+    </script>
+</body>
+
+</html>
