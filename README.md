@@ -27,5 +27,4 @@ JavaScript: To handle menu fetching and the order process
 Font Awesome: For icons (search icon in the input field).
 
 ## 🌐 Live Demo
-Host your project on GitHub Pages, Netlify, or Vercel for a live preview. Add the live demo link here:
 [Click Here](https://sachinrajbher15.github.io/Frontend-3-Contest-2-Nov-24/)
